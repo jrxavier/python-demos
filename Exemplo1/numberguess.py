@@ -1,5 +1,6 @@
 __author__ = 'zerix'
 
+#Exemplo de numeros randomicos
 
 import random
 
